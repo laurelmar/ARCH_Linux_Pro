@@ -1,4 +1,4 @@
----
+<!-- ---
 title: General fixes and improvements
 type: minor
 ---
@@ -13,4 +13,4 @@ This release fixes a few minor issues reported by users. We've also made a few q
 **Fixes:**
 
 * Input sometimes getting stuck
-* One more memory leak obliterated
+* One more memory leak obliterated -->

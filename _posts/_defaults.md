@@ -1,4 +1,4 @@
----
+<!-- ---
 title:
 type: major
 ---
@@ -11,4 +11,4 @@ This release introduces
 
 **Fixes:**
 
-*
+* -->

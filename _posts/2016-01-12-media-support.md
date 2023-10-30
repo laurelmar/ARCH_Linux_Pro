@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Hello
 type: major
 ---
@@ -14,4 +14,4 @@ ChatApp introduces media support! Send images, videos and documents to your cont
 **Fixes:**
 
 * Edge case contact syncing issue
-* All memory leaks obliterated
+* All memory leaks obliterated -->
